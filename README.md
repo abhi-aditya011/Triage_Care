@@ -52,8 +52,8 @@ A comprehensive, modern web application for health insurance planning and medica
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/kunaldubey10/Sure-Health.git
-cd Sure-Health
+git clone https://github.com/abhi-aditya011/Triage_Care.git
+cd Triage_Care
 ```
 
 2. **Create virtual environment**
@@ -145,9 +145,7 @@ Triage-Care/
 
 ## 👥 Team
 
-- **Avinash Kumar** - [avinashverma222005@gmail.com](mailto:avinashverma222005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/avinashverma2005)
-- **Harsh Vardhan Singh** - [harshkumarop@gmail.com](mailto:harshkumarop@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harsh-kumar-1baa94260)
-- **Kunal Dubey** - [kunaldubeyslp@gmail.com](mailto:kunaldubeyslp@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kunal-dubey10)
+- **Abhi Aditya** - [abhiaditya011@gmail.com](mailto:abhiaditya011@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhi-aditya/)
 
 ## 📄 License
 
